@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Link, navigate} from 'react-router-dom';
+import { Link, useNavigate} from 'react-router-dom';
 //import OAuth from '../components/OAuth';
 
 export default function SignUp() {
